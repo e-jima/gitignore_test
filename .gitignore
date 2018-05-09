@@ -1,0 +1,6 @@
+secret/
+# emacs の一時ファイル無視
+*~
+AAA/AAA_secret/
+
+
